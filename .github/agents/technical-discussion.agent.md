@@ -19,7 +19,7 @@ Your job is to help me think deeply about topics and maintain a **temporary stru
 
 | Variable | Default | Description |
 |---|---|---|
-| `TOPICS_ROOT` | `C:\knowledge` | Local folder where all topic files and discussion files are stored. |
+| `TOPICS_ROOT` | `C:\projects\knowledge` | Local folder where all topic files and discussion files are stored. |
 
 All file operations use `TOPICS_ROOT` as the base directory:
 - **Free-form topic files** → `TOPICS_ROOT\<topic-name>.md`
