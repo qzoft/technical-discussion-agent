@@ -7,7 +7,7 @@
 **Owner:** Thomas <!-- auto -->
 **Status:** Parked
 **Storage:** PATH_LOCAL
-**Intake:**  <!-- auto -->
+**Intake:** PATH_LOCAL\technical-discussion-agent <!-- auto -->
 **Tags:** open
 **Activity ID:** technical-discussion-agent
 
